@@ -1,0 +1,2 @@
+Merhaba, bu bir dosya örneğidir.
+Satır 2 de buradadır.
